@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Using JSON API with VB.NET
+</name>
+</assembly>
+<members>
+<member name="T:Using_JSON_API_with_VB.NET.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Using_JSON_API_with_VB.NET.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Using_JSON_API_with_VB.NET.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Using_JSON_API_with_VB.NET.My.Resources.Resources.Egypt_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Using_JSON_API_with_VB.NET.My.Resources.Resources.Flag_Of_Europe_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Using_JSON_API_with_VB.NET.My.Resources.Resources.Great_Britain_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Using_JSON_API_with_VB.NET.My.Resources.Resources.Home_64px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Using_JSON_API_with_VB.NET.My.Resources.Resources.Libya_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Using_JSON_API_with_VB.NET.My.Resources.Resources.Transaction_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Using_JSON_API_with_VB.NET.My.Resources.Resources.Tunisia_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Using_JSON_API_with_VB.NET.My.Resources.Resources.Turkey_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Using_JSON_API_with_VB.NET.My.Resources.Resources.USA_32px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

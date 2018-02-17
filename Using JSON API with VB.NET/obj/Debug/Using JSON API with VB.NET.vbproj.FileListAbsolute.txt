@@ -1,0 +1,15 @@
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\bin\Debug\Using JSON API with VB.NET.exe.config
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\bin\Debug\Using JSON API with VB.NET.exe
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\bin\Debug\Using JSON API with VB.NET.pdb
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\bin\Debug\Using JSON API with VB.NET.xml
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\obj\Debug\Using JSON API with VB.NET.vbprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\obj\Debug\Using_JSON_API_with_VB.NET.Home.resources
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\obj\Debug\Using_JSON_API_with_VB.NET.Resources.resources
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\obj\Debug\Using JSON API with VB.NET.vbproj.GenerateResource.Cache
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\obj\Debug\Using JSON API with VB.NET.vbproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\obj\Debug\Using JSON API with VB.NET.exe
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\obj\Debug\Using JSON API with VB.NET.xml
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\obj\Debug\Using JSON API with VB.NET.pdb
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator\source\repos\Using JSON API with VB.NET\Using JSON API with VB.NET\bin\Debug\Newtonsoft.Json.xml
